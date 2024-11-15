@@ -17,9 +17,8 @@ nav a:hover{
     border-radius: 8px;
     box-shadow: 0 0 10px rgb(58, 14, 190)
 }
-contenedor h2{
+.contenedor h2{
     color: black;
-
 }
 footer{
     background-color: #333;
